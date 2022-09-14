@@ -1,0 +1,99 @@
+baseURL: http://example.org/
+languageCode: en-us
+theme: sada
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+params:
+  aboutme:
+    description: Tagline. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+  author: Darshan Baral
+  copyright: Custom copyright message
+  description: Simple portfolio theme
+  education:
+    list:
+      - college: University Number 1
+        dates: 2016 - 2018
+        degree: Masters in Degree 1
+        thesis_link: '#'
+        thesis_title: Title of the dissertation
+      - college: University Number 2
+        dates: 2010 - 2014
+        degree: Bachelors in Degree 2
+    title: Education
+  experiences:
+    title: Experiences
+  hobbies:
+    list:
+      - interest: Travelling
+      - interest: Music
+      - interest: Flying
+      - interest: Baking
+    title: Hobbies
+  jobs:
+    list:
+      - company: Company name 1
+        dates: 2018 - *Present*
+        link: '#'
+        position: Job Number 1
+      - company: Company name 2
+        dates: 2016 - 2018
+        details: Brief description of the `work` done. Lorem ipsum dolor sit amet,
+          consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+          et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+          ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        link: '#'
+        position: Job Number 2
+  language:
+    list:
+      - language: English
+        level: Fluent
+      - language: Bird
+        level: Basic
+    title: Languages
+  name: example.org
+  profile:
+    name: Sada Theme
+    photo: images/profile.jpg
+  projects:
+    list:
+      - description: Description of the *awesome* project 1
+        title: Awesome Project 1
+        url: '#'
+      - description: Description of the **awesome** project 2. Lorem ipsum dolor sit
+          amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+          et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+          ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        title: Awesome Project 2
+        url: '#'
+    title: Projects
+  skills:
+    list:
+      - skill: Skill 1, Skill 2
+        skillrating: 95
+      - skill: Skill 3
+        skillrating: 90
+      - skill: Skill 4
+        skillrating: 80
+    title: Skills
+  social:
+    list:
+      - icon: fab fa-linkedin-in
+        title: LinkedIn
+        url: '#'
+      - icon: fab fa-github
+        title: GitHub
+        url: '#'
+      - icon: ai ai-google-scholar
+        title: Google Scholar
+        url: '#'
+      - icon: ai ai-researchgate
+        title: ResearchGate
+        url: '#'
+    title: Links
+  theme: light
+  title: Sada Theme
+  useResources: no
