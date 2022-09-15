@@ -6,10 +6,7 @@ disableKinds:
   - taxonomyTerm
 params:
   aboutme:
-    description: Tagline. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+    description: Environmental Engineer and Geoscientist from Los Andes University, Bogotá, Colombia. I am a dynamic, hardworking and curious professional with a particular interest in research topics involving environmental health, environmental modeling, data science, Geographic Information Systems (GIS) and remote sensing.
   author: Darshan Baral
   copyright: Custom copyright message
   description: Simple portfolio theme
