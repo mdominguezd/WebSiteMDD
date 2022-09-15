@@ -18,7 +18,7 @@ params:
       - college: Los Andes University *Bogota*, *Colombia*
         dates: 2016 - 2021
         degree: B.Sc. Environmental Engineering
-        # faculty: Faculty of Engineering
+        faculty: Faculty of Engineering
         thesis_link: 'https://repositorio.uniandes.edu.co/handle/1992/53124'
         thesis_title: Estudio exploratorio de radón residencial en Bogotá, Colombia y municipios aledaños
       - college: Los Andes University *Bogota*, *Colombia*
@@ -40,13 +40,13 @@ params:
   jobs:
     list:
       - company: Avinal S.A.
-        dates: 2022
+        dates: *March* 2022 - *August*2022
         link: 'https://avinal.com.co/'
         position: G.I.S. Advisor
       - company: Nutrición de Plantas S.A.
         dates: 2021
         details: Responsible of the making of ”Pilot study of Heavy Metal contamination in Avocado crops (Var. Hass) and feasibility analysis of Crosscheck methodology in Heavy Metal distribution” Support in the implementation of soil diagnostic services for agriculture (Nutricheck)
-        # link: 'https://www.nutriciondeplantas.com.co/'
+        link: 'https://www.nutriciondeplantas.com.co/'
         position: Technical advisor on Agrosat services
   language:
     list:
