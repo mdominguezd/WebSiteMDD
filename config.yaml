@@ -40,11 +40,11 @@ params:
   jobs:
     list:
       - company: Avinal S.A.
-        dates: *March 2022 - August 2022*
+        dates: *March 2022* - *August 2022*
         link: 'https://avinal.com.co/'
         position: G.I.S. Advisor 
       - company: Nutrición de Plantas S.A.
-        dates: July
+        dates: *August 2021* - *December 2021*
         details: 
           list:
             - Responsible of the making of ”Pilot study of Heavy Metal contamination in Avocado crops (Var. Hass) and
