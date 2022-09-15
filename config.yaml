@@ -40,7 +40,7 @@ params:
   jobs:
     list:
       - company: Avinal S.A.
-        dates: *March* 2022 - *August*2022
+        dates: 04/2022 - 08/2022
         link: 'https://avinal.com.co/'
         position: G.I.S. Advisor
       - company: Nutrición de Plantas S.A.
