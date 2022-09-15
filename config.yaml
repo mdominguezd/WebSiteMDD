@@ -7,9 +7,9 @@ disableKinds:
 params:
   aboutme:
     description: Environmental Engineer and Geoscientist from Los Andes University, Bogotá, Colombia. I am a dynamic, hardworking and curious professional with a particular interest in research topics involving environmental health, environmental modeling, data science, Geographic Information Systems (GIS) and remote sensing.
-  author: Martin Dominguez Duran
+  author: Martín Domínguez Durán
   copyright: 
-  description: About me:
+  description: About me
   education:
     list:
       - college: University Number 1
