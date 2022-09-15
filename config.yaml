@@ -45,8 +45,7 @@ params:
         position: G.I.S. Advisor
       - company: Nutrición de Plantas S.A.
         dates: 07/2021 - 12/2021
-        details: 
-          list:
+        list:
             - Responsible of the making of ”Pilot study of Heavy Metal contamination in Avocado crops (Var. Hass) and feasibility analysis of Crosscheck methodology in Heavy Metal distribution”.
             - Support in the implementation of soil diagnostic services for agriculture (Nutricheck)
         link: 'https://www.nutriciondeplantas.com.co/'
@@ -55,10 +54,12 @@ params:
     list:
       - language: English
         level: Fluent
-      - language: Bird
-        level: Basic
+      - language: Spanish
+        level: Native
+      - language: French
+        level: Fluent
     title: Languages
-  name: example.org
+  name: martin-dominguezduran
   profile:
     name: Martín Domínguez Durán
     photo: images/profile.jpg
