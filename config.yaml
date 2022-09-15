@@ -14,14 +14,14 @@ params:
     list:
       - college: Wageningen University & Research
         dates: 2016 - 2018
-        degree: Masters in Degree 1
-      - college: Los Andes University **Bogota, Colombia**
+        degree: M.Sc. Geo-Information Science
+      - college: Los Andes University *Bogota*, *Colombia*
         dates: 2016 - 2021
         degree: B.Sc. Environmental Engineering
         # faculty: Faculty of Engineering
         thesis_link: 'https://repositorio.uniandes.edu.co/handle/1992/53124'
         thesis_title: Estudio exploratorio de radón residencial en Bogotá, Colombia y municipios aledaños
-      - college: Los Andes University **Bogota, Colombia**
+      - college: Los Andes University *Bogota*, *Colombia*
         # faculty: Faculty of Sciences
         dates: 2016 - 2021
         degree: B.Sc. Geosciences
@@ -40,11 +40,11 @@ params:
   jobs:
     list:
       - company: Avinal S.A.
-        dates: *March 2022* - *August 2022*
+        dates: *March* 2022 - *August* 2022
         link: 'https://avinal.com.co/'
         position: G.I.S. Advisor
       - company: Nutrición de Plantas S.A.
-        dates: *August 2021* - *December 2021*
+        dates: *August* 2021 - *December* 2021
       #   details: 
 #           list:
 #             - Responsible of the making of ”Pilot study of Heavy Metal contamination in Avocado crops (Var. Hass) and
@@ -100,5 +100,5 @@ params:
         url: '#'
     title: Links
   theme: light
-  title: Sada Theme
+  title: Martín Doomínguez Durán
   useResources: no
