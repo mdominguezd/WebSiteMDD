@@ -47,7 +47,7 @@ params:
         dates: 2021
         details: Responsible of the making of ”Pilot study of Heavy Metal contamination in Avocado crops (Var. Hass) and
 feasibility analysis of Crosscheck methodology in Heavy Metal distribution” Support in the implementation of soil diagnostic services for agriculture (Nutricheck)
-        link: 'https://www.nutriciondeplantas.com.co/'
+        # link: 'https://www.nutriciondeplantas.com.co/'
         position: Technical advisor on *Agrosat* services
   language:
     list:
