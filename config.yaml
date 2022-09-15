@@ -20,7 +20,7 @@ params:
       - college: Los Andes University
         dates: 2016 - 2021
         degree: B.Sc. Environmental Engineering
-        college: Los Andes University
+      - college: Los Andes University
         dates: 2016 - 2021
         degree: B.Sc. Geosciences
     title: Education
