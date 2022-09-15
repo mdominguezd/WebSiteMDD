@@ -7,19 +7,22 @@ disableKinds:
 params:
   aboutme:
     description: Environmental Engineer and Geoscientist from Los Andes University, Bogotá, Colombia. I am a dynamic, hardworking and curious professional with a particular interest in research topics involving environmental health, environmental modeling, data science, Geographic Information Systems (GIS) and remote sensing.
-  author: Darshan Baral
-  copyright: Custom copyright message
-  description: Simple portfolio theme
+  author: Martín Domínguez Durán
+  copyright: 
+  description: About me:
   education:
     list:
       - college: University Number 1
         dates: 2016 - 2018
         degree: Masters in Degree 1
-        thesis_link: '#'
+        thesis_link: 'https://repositorio.uniandes.edu.co/handle/1992/53124'
         thesis_title: Title of the dissertation
-      - college: University Number 2
-        dates: 2010 - 2014
-        degree: Bachelors in Degree 2
+      - college: Los Andes University
+        dates: 2016 - 2021
+        degree: B.Sc. Environmental Engineering
+        college: Los Andes University
+        dates: 2016 - 2021
+        degree: B.Sc. Geosciences
     title: Education
   experiences:
     title: Experiences
