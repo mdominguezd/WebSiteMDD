@@ -40,18 +40,18 @@ params:
   jobs:
     list:
       - company: Avinal S.A.
-        dates: *March* 2022 - *August* 2022
+        dates: 2022
         link: 'https://avinal.com.co/'
         position: G.I.S. Advisor
       - company: Nutrición de Plantas S.A.
-        dates: *August* 2021 - *December* 2021
-      #   details: 
-#           list:
-#             - Responsible of the making of ”Pilot study of Heavy Metal contamination in Avocado crops (Var. Hass) and
-# feasibility analysis of Crosscheck methodology in Heavy Metal distribution”
-#             - Support in the implementation of soil diagnostic services for agriculture (Nutricheck)
-        # link: 'https://www.nutriciondeplantas.com.co/'
-        # position: Technical advisor on *Agrosat* services
+        dates: 2021
+        details:
+            list:
+            - Responsible of the making of ”Pilot study of Heavy Metal contamination in Avocado crops (Var. Hass) and
+feasibility analysis of Crosscheck methodology in Heavy Metal distribution”
+            - Support in the implementation of soil diagnostic services for agriculture (Nutricheck)
+        link: 'https://www.nutriciondeplantas.com.co/'
+        position: Technical advisor on *Agrosat* services
   language:
     list:
       - language: English
